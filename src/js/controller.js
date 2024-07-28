@@ -7,8 +7,8 @@ import bookmarksView from "./views/bookmarksView";
 import addRecipeView from "./views/addRecipeView";
 import {MODAL_CLOSE_SEC} from './config'
 
-import "core-js/stable";
-import "regenerator-runtime/runtime";
+// import "../core-js/stable";
+// import "regenerator-runtime/runtime";
 
 if (module.hot) {
   module.hot.accept();
